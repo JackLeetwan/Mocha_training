@@ -15,7 +15,11 @@ describe('Mocha Hooks', function(){
         console.log('Execute after each test');
     });
 
-    it('Mocha hooks test', function(){
-        console.log('Mocha - this is a test for Mocha hooks')
+    it('Mocha hooks test1', function(){
+        console.log('Mocha - this is a first test for Mocha hooks')
+    });
+
+    it('Mocha hooks test2', function(){
+        console.log('Mocha - this is a second test for Mocha hooks')
     })
 })
