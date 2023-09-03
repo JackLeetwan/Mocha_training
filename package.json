@@ -1,0 +1,14 @@
+{
+  "name": "mocha_training",
+  "version": "1.0.0",
+  "description": "03.09.2023",
+  "main": "helloMocha.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
